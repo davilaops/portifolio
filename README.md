@@ -1,6 +1,6 @@
 ## 💼 Meu Portfólio
 
-Este é o meu primeiro portfólio como desenvolvedor, criado para apresentar os resultados dos meus estudos em programação. Com o apoio das aulas do Professor Gustavo Guanabara, do Curso em Vídeo, desenvolvi este projeto para demonstrar as tecnologias e linguagens que venho aprendendo e aperfeiçoando. Pretendo mantê-lo sempre atualizado, tornando-o cada vez mais completo e representativo da minha evolução como programador.
+Este é o meu segundoo portfólio como desenvolvedor, criado para apresentar os resultados dos meus estudos em programação. Com o apoio das aulas do Professor Gustavo Guanabara, do Curso em Vídeo, desenvolvi este projeto para demonstrar as tecnologias e linguagens que venho aprendendo e aperfeiçoando. Pretendo mantê-lo sempre atualizado, tornando-o cada vez mais completo e representativo da minha evolução como programador.
 
 ## 📝 Sobre o Projeto
 
@@ -8,8 +8,9 @@ Este portfólio é uma vitrine dos meus aprendizados e projetos. Desenvolvi com 
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML5  
-- CSS3  
+- HTML5 
+- CSS3 
+- JavaScript   
 - Git e GitHub  
 
 ## ✨ Funcionalidades
@@ -19,9 +20,9 @@ Este portfólio é uma vitrine dos meus aprendizados e projetos. Desenvolvi com 
 - Design responsivo  
 - Navegação simples e objetiva  
 
-## 💻 Como Executar
+## 💻 Vizualização 
 
-Você pode visualizar o portfólio diretamente pelo GitHub Pages (ou outro link de hospedagem): davilaops.github.io/my-portfolio/
+Para você vizualizar, basta clicar no link ao lado em azul. 
 
 
 
